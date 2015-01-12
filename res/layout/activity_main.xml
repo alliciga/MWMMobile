@@ -8,7 +8,7 @@
         android:id="@+id/text_State"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:lines="2"
+        android:lines="3"
         android:text="..."
         android:textAppearance="?android:attr/textAppearanceSmall" />
 
