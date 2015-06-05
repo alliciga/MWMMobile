@@ -2,7 +2,8 @@
 <resources>
 
     <string name="app_name">MWMMobile</string>
-    <string name="title_activity_main">MWM清运车辆管理</string>
+    <string name="title_activity_main">医废清运车辆管理</string>
+    <string name="title_activity_offline">离线地图管理</string>
     <string name="action_settings">Settings</string>
 
 </resources>
